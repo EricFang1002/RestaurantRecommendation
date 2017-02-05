@@ -1,7 +1,11 @@
 # Restaurant Recommendation System – Java Web Service Development
+
 Sept. 2016 – Nov. 2016
+
 This project is to provide a web service for users to search nearby restaurants and view recommended restaurants based on search history and user preferences.
+
 ** Back-End **:
+
 • Built a web service using Java Servlets to handle HTTP requests and responses.
 • Utilized MySQL (relational database) to store user preferences and restaurant information fetched from Yelp API.
 • Implemented a content-based recommendation algorithm to suggest similar restaurants based on restaurant categories.
