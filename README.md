@@ -16,10 +16,14 @@ This project is to provide a web service for users to search nearby restaurants 
 * Designed an Android mobile application collaboratively to provide restaurant search service for users based on locations.
 
 ## Demo:
-* User Login
+* User login
  
 ![Alt text](/images/user_login.jpg?raw=true "User Login")
 
-* Retriving and Loading the restaurant information from Yelp API
+* Retriving and loading the restaurant information from Yelp API
 
 ![Alt text](/images/loading.jpg?raw=true "loading")
+
+* The system automatically shows the nearby restaurants around the users based on his/her position (longitute and latitute)
+
+![Alt text](/images/near_restaurants.jpg?raw=true "near_restaurants")
