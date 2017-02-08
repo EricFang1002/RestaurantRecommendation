@@ -31,3 +31,7 @@ This project is to provide a web service for users to search nearby restaurants 
 * If the user moves the cursor onto a specific restaurant entry, the background color changes to white automatically
 
 ![Alt text](/images/up.jpg?raw=true "up")
+
+* The user can put his/her favorite restaurant into the favorite restaurant records by clicking the heart-shaped icon
+
+![Alt text](/images/turky.jpg?raw=true "turky")
