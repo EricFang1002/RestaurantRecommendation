@@ -15,6 +15,10 @@ This project is to provide a web service for users to search nearby restaurants 
 * Implemented a dynamic web page using AJAX techniques (HTML, CSS and JavaScript) for users to search nearby restaurants, update user preferences and view recommended restaurants.
 * Designed an Android mobile application collaboratively to provide restaurant search service for users based on locations.
 
+## Recommendation Algorithm - Content-based Recommendation
+
+
+
 ## Demo:
 * User login
  
