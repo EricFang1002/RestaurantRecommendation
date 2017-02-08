@@ -32,6 +32,10 @@ This project is to provide a web service for users to search nearby restaurants 
 
 ![Alt text](/images/up.jpg?raw=true "up")
 
-* The user can put his/her favorite restaurant into the favorite restaurant records by clicking the heart-shaped icon
+* Users can put their favorite restaurant into the favorite restaurant records by clicking the heart-shaped icon
 
 ![Alt text](/images/turky.jpg?raw=true "turky")
+
+* Users can check what restaurant the system recommends to them based on their information and visit history by clicking the Recomendation icon. The system will suggest similar and potential restaurants which belong to the same categories that users' favorite records have.
+
+![Alt text](/images/turky_similar.jpg?raw=true "turky_similar")
