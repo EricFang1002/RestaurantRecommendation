@@ -17,6 +17,8 @@ This project is to provide a web service for users to search nearby restaurants 
 
 ## Recommendation Algorithm - Content-based Recommendation
 
+*Content-based filtering methods* are based on a description of the item and a profile of the user’s preference. In a content-based recommender system, keywords are used to describe the items and a user profile is built to indicate the type of item this user likes. In other words, these algorithms try to recommend items that are similar to those that a user liked in the past (or is examining in the present).
+
 ![Alt text](/images/content.jpg?raw=true "content")
 
 ## Demo:
