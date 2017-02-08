@@ -17,4 +17,5 @@ This project is to provide a web service for users to search nearby restaurants 
 
 ## Demo:
  * User Login
- ![Alt text](/images/user_login.jpg?raw=true "Optional Title")
+ 
+ ![Alt text](/images/user_login.jpg?raw=true "User Login")
