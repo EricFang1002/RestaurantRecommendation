@@ -17,7 +17,7 @@ This project is to provide a web service for users to search nearby restaurants 
 
 ## Recommendation Algorithm - Content-based Recommendation
 
-
+![Alt text](/images/content.jpg?raw=true "content")
 
 ## Demo:
 * User login
